@@ -1,4 +1,4 @@
-public class Soal1
+public class 1
 {
     static boolean cekAngka = false;
     
