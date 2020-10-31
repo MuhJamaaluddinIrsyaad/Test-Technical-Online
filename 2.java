@@ -1,4 +1,4 @@
-public class Soal2
+public class Main
 {
 	public static void main(String[] args) {
 		cetak_gambar();
